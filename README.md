@@ -17,7 +17,7 @@ The main function of this website come from the navigation bar, located in the h
 
 ## Credits
 
-Majority of this code was already written and styled by the senior dev team at Horiseon. Sent to me to refactor code by consolidating repeating style properties, making code structure easier to read, and adding more accesibility features. Link to website can be found here: 
+Majority of this code was already written and styled by the senior dev team at Horiseon. Sent to me to refactor code by consolidating repeating style properties, making code structure easier to read, and adding more accesibility features. Link to website can be found here: https://devinjl665.github.io/Week1-Horiseon-Refactor/
 
 ## User Story
 

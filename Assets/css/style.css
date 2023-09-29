@@ -1,10 +1,11 @@
+/* Universal selector */
+/* This affects the overall formatting of the page */
+
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-/* Universal selector */
-/* This affects the overall formatting of the page */
 
 /* Element selectors */
 /* not as broad as a universal selector, affects content in those specific elements*/
