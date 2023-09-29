@@ -1,8 +1,20 @@
 # Week1-Horiseon-Refactor
+
+## Description
+
 Week 1 Challenge: On-the-job ticket for Horiseon. Refactoring codebase to make site more accessible. 
 Tasks completed include: Consolidating and reorganizing the CSS stylesheet, adding alt text to images, commenting out stylesheet and html code, and making code easier to read.
 
 Making a website more accessible allows it to be prioritized in the search engine. The easier it is to be seen, the less you have to spend on advertisements. Increasing revenue and lowering costs.
+
+## Installation
+
+N/A
+
+## Usage
+
+## Credits
+
 
 ## User Story
 
