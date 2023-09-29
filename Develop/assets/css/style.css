@@ -7,6 +7,7 @@
 }
 
 /* Element selectors */
+/* not as broad as a universal selector, affects content in those specific elements*/
 
 body {
     background-color: #d9dcd6;
